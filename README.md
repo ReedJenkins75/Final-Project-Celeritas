@@ -10,27 +10,27 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+* Celeritas   - 
+* Reed Jenkins- 
+* 12/11/2024      - 
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
 
-
+use the arrow keys or WASD to move, click to shoot, pres space to spawn groups of enemies around map once you are done clearing main building
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
 
-
+The enemies have colliding with eachother, you can position large enemies to block doorways to stop some enemies from reaching you, you can also block them with enough normal enemies
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
-Robot Crush font https://www.dafont.com/robot-crush.font
+for a small part of a animation that plays at the beginning, 2D icon swords was used for the slashing animation.
 
 <br>
 
@@ -42,25 +42,29 @@ Robot Crush font https://www.dafont.com/robot-crush.font
 
 5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
 
-
+none
 
 <br>
 
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 
-
+i used many videos which were
+https://youtu.be/moaGh0Z1MqU mouse aiming
+https://youtu.be/8rnRvotQmdg - camera follow
+enemy spawner - https://youtu.be/LolizpUd3QQ
+enemy follow - https://youtu.be/2SXa10ILJms
 
 <br>
 
 7. **What trouble did you have with this project?**
-
+i felt like i was too ambitious with the object kicking, i expected there to be at least some tutorials on it but wherever i looked i could barely find anything that showed me how, so instead of adding in kicking i decided to add in a way to shoot and use enemies to block certain chokepoints
 
 
 <br>
 
 8. **Is there anything else we should know?**
 
-
+i feel this was much better than my original idea, i feel like it is a more free flowing game and has a good feel to it while you are playing. i feel like i learned a lot from my midterm and was able to use some of that to my advantage to make a game that i am proud of.
 
 
 <br><br><br><br><br>
